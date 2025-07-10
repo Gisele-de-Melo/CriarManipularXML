@@ -12,4 +12,4 @@
 # Blog
 - Content available at:
 - Conteúdo disponível em:
-  https://codedelphi.com/criacao-e-manipulacao-de-estruturas-xml-em-delphi/
+  https://www.codedelphi.com/2024/09/criacao-e-manipulacao-de-estruturas-xml-em-delphi.html
